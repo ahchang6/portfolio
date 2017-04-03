@@ -1,0 +1,2867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp17-cs242/ahchang6">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2056">
+<author>ahchang6</author>
+<date>2017-01-30T15:44:41.852940Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.project</name>
+<size>362</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/.settings</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/HW0.iml</name>
+<size>724</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4492</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/Network.class</name>
+<size>7262</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/internals/Node.class</name>
+<size>2754</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1074</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>10121</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/doc</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/Network.java</name>
+<size>11816</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/internals</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Node.java</name>
+<size>4630</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/tests</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/._HW0</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX/HW0</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._.DS_Store</name>
+<size>82</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._.classpath</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._.project</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._.settings</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._COPYING</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._bin</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._doc</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._expectedOutput.txt</name>
+<size>167</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._javadoc.xml</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/._src</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX/HW0/.settings</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/.settings/._org.eclipse.jdt.core.prefs</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX/HW0/doc</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/doc/._LANSimulationDocument.pdf</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/doc/._README</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/doc/._RefactoringAssignment.pdf</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/doc/._toDoList</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX/HW0/src</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/._lanSimulation</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/._LANSimulation.java</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/._Network.java</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/._internals</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/._tests</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/internals</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/internals/._Node.java</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/internals/._Packet.java</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/tests</name>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/__MACOSX/HW0/src/lanSimulation/tests/._LANTests.java</name>
+<size>197</size>
+<commit
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/alloc.c</name>
+<size>10127</size>
+<commit
+   revision="2056">
+<author>ahchang6</author>
+<date>2017-01-30T15:44:41.852940Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1</name>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess</name>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="3379">
+<author>ahchang6</author>
+<date>2017-02-06T14:45:46.200440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess/src</name>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess/src/Pieces</name>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Bishop.java</name>
+<size>1131</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Cannon.java</name>
+<size>1989</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Jester.java</name>
+<size>1364</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/King.java</name>
+<size>634</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Knight.java</name>
+<size>618</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Pawn.java</name>
+<size>1824</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Piece.java</name>
+<size>1254</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Queen.java</name>
+<size>1209</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/Pieces/Rook.java</name>
+<size>1783</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess/src/assets</name>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess/src/assets/images</name>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/blackBishop.png</name>
+<size>1493</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/blackKing.png</name>
+<size>1955</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/blackKnight.png</name>
+<size>1491</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/blackPawn.png</name>
+<size>989</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/blackQueen.png</name>
+<size>2405</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/blackRook.png</name>
+<size>835</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/whiteBishop.png</name>
+<size>1475</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/whiteKing.png</name>
+<size>1910</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/whiteKnight.png</name>
+<size>1508</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/whitePawn.png</name>
+<size>988</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/whiteQueen.png</name>
+<size>2342</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/images/whiteRook.png</name>
+<size>814</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess/src/assets/testPlans</name>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/assets/testPlans/ManualPlan.pdf</name>
+<size>243175</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess/src/game</name>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/game/Board.java</name>
+<size>3294</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/game/Chessboard.java</name>
+<size>4939</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/game/Move.java</name>
+<size>6884</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/game/Player.java</name>
+<size>1308</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/Chess/src/tests</name>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/BishopTest.java</name>
+<size>1068</size>
+<commit
+   revision="3413">
+<author>ahchang6</author>
+<date>2017-02-06T18:33:40.693964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/BoardTest.java</name>
+<size>1549</size>
+<commit
+   revision="3431">
+<author>ahchang6</author>
+<date>2017-02-06T19:30:08.278704Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/CannonTest.java</name>
+<size>1277</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/KingTest.java</name>
+<size>1941</size>
+<commit
+   revision="3431">
+<author>ahchang6</author>
+<date>2017-02-06T19:30:08.278704Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/KnightTest.java</name>
+<size>987</size>
+<commit
+   revision="3431">
+<author>ahchang6</author>
+<date>2017-02-06T19:30:08.278704Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/PawnTest.java</name>
+<size>2137</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/PieceTest.java</name>
+<size>2800</size>
+<commit
+   revision="3413">
+<author>ahchang6</author>
+<date>2017-02-06T18:33:40.693964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/PlayerTest.java</name>
+<size>733</size>
+<commit
+   revision="3431">
+<author>ahchang6</author>
+<date>2017-02-06T19:30:08.278704Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/QueenTest.java</name>
+<size>1693</size>
+<commit
+   revision="3431">
+<author>ahchang6</author>
+<date>2017-02-06T19:30:08.278704Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/Chess/src/tests/RookTest.java</name>
+<size>1380</size>
+<commit
+   revision="3413">
+<author>ahchang6</author>
+<date>2017-02-06T18:33:40.693964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess</name>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="3379">
+<author>ahchang6</author>
+<date>2017-02-06T14:45:46.200440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src</name>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src/Pieces</name>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Bishop.java</name>
+<size>1131</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Cannon.java</name>
+<size>1989</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Jester.java</name>
+<size>1478</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/King.java</name>
+<size>634</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Knight.java</name>
+<size>618</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Pawn.java</name>
+<size>1824</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Piece.java</name>
+<size>1573</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Queen.java</name>
+<size>1095</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pieces/Rook.java</name>
+<size>1783</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src/assets</name>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src/assets/images</name>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/blackBishop.png</name>
+<size>1493</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/blackKing.png</name>
+<size>1955</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/blackKnight.png</name>
+<size>1491</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/blackPawn.png</name>
+<size>989</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/blackQueen.png</name>
+<size>2405</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/blackRook.png</name>
+<size>835</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/whiteBishop.png</name>
+<size>1475</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/whiteKing.png</name>
+<size>1910</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/whiteKnight.png</name>
+<size>1508</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/whitePawn.png</name>
+<size>988</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/whiteQueen.png</name>
+<size>2342</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/images/whiteRook.png</name>
+<size>814</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src/assets/testPlans</name>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/assets/testPlans/ManualPlan.pdf</name>
+<size>243175</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src/game</name>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/game/Board.java</name>
+<size>4807</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/game/Chessboard.java</name>
+<size>6359</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/game/Main.java</name>
+<size>323</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/game/Move.java</name>
+<size>7945</size>
+<commit
+   revision="4356">
+<author>ahchang6</author>
+<date>2017-02-13T19:06:25.702306Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/game/Player.java</name>
+<size>1308</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src/tests</name>
+<commit
+   revision="4356">
+<author>ahchang6</author>
+<date>2017-02-13T19:06:25.702306Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/BishopTest.java</name>
+<size>992</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/BoardTest.java</name>
+<size>1542</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/CannonTest.java</name>
+<size>2556</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/JesterTest.java</name>
+<size>3214</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/KingTest.java</name>
+<size>1941</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/KnightTest.java</name>
+<size>987</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/PawnTest.java</name>
+<size>2748</size>
+<commit
+   revision="4356">
+<author>ahchang6</author>
+<date>2017-02-13T19:06:25.702306Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/PieceTest.java</name>
+<size>2800</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/PlayerTest.java</name>
+<size>733</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/QueenTest.java</name>
+<size>2012</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/tests/RookTest.java</name>
+<size>1380</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5266">
+<author>ahchang6</author>
+<date>2017-02-20T19:19:36.084243Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess</name>
+<commit
+   revision="5266">
+<author>ahchang6</author>
+<date>2017-02-20T19:19:36.084243Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="3379">
+<author>ahchang6</author>
+<date>2017-02-06T14:45:46.200440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src</name>
+<commit
+   revision="5266">
+<author>ahchang6</author>
+<date>2017-02-20T19:19:36.084243Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/Pieces</name>
+<commit
+   revision="5265">
+<author>ahchang6</author>
+<date>2017-02-20T19:12:55.815850Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Bishop.java</name>
+<size>1385</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Cannon.java</name>
+<size>2302</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Jester.java</name>
+<size>1791</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/King.java</name>
+<size>894</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Knight.java</name>
+<size>871</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Pawn.java</name>
+<size>2435</size>
+<commit
+   revision="5265">
+<author>ahchang6</author>
+<date>2017-02-20T19:12:55.815850Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Piece.java</name>
+<size>1685</size>
+<commit
+   revision="5197">
+<author>ahchang6</author>
+<date>2017-02-20T03:00:28.691424Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Queen.java</name>
+<size>1347</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Pieces/Rook.java</name>
+<size>2033</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/assets</name>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/assets/testPlans</name>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/assets/testPlans/ManualPlan.pdf</name>
+<size>1383082</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/game</name>
+<commit
+   revision="5266">
+<author>ahchang6</author>
+<date>2017-02-20T19:19:36.084243Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/Board.java</name>
+<size>5204</size>
+<commit
+   revision="5265">
+<author>ahchang6</author>
+<date>2017-02-20T19:12:55.815850Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/Chessboard.java</name>
+<size>14329</size>
+<commit
+   revision="5266">
+<author>ahchang6</author>
+<date>2017-02-20T19:19:36.084243Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/Move.java</name>
+<size>8936</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/Player.java</name>
+<size>1308</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/game/images</name>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackBishop.png</name>
+<size>1493</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackCannon.png</name>
+<size>1231</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackJester.jpg</name>
+<size>1423</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackKing.png</name>
+<size>1955</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackKnight.png</name>
+<size>1491</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackPawn.png</name>
+<size>989</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackQueen.png</name>
+<size>2405</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/blackRook.png</name>
+<size>835</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whiteBishop.png</name>
+<size>1475</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whiteCannon.png</name>
+<size>1674</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whiteJester.jpg</name>
+<size>908</size>
+<commit
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whiteKing.png</name>
+<size>1910</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whiteKnight.png</name>
+<size>1508</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whitePawn.png</name>
+<size>988</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whiteQueen.png</name>
+<size>2342</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/game/images/whiteRook.png</name>
+<size>814</size>
+<commit
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/tests</name>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/BishopTest.java</name>
+<size>992</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/BoardTest.java</name>
+<size>1542</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/CannonTest.java</name>
+<size>2556</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/JesterTest.java</name>
+<size>3214</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/KingTest.java</name>
+<size>1941</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/KnightTest.java</name>
+<size>987</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/PawnTest.java</name>
+<size>2748</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/PieceTest.java</name>
+<size>2800</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/PlayerTest.java</name>
+<size>733</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/QueenTest.java</name>
+<size>2012</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/tests/RookTest.java</name>
+<size>1380</size>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/actor_spider.py</name>
+<size>571</size>
+<commit
+   revision="5808">
+<author>ahchang6</author>
+<date>2017-02-27T13:49:56.885770Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/api.py</name>
+<size>5767</size>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/data</name>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data/default.json</name>
+<size>6974</size>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/data/html</name>
+<commit
+   revision="5808">
+<author>ahchang6</author>
+<date>2017-02-27T13:49:56.885770Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data/html/MFreeman.html</name>
+<size>269411</size>
+<commit
+   revision="5808">
+<author>ahchang6</author>
+<date>2017-02-27T13:49:56.885770Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph.py</name>
+<size>4154</size>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/main.py</name>
+<size>1102</size>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/scraper.py</name>
+<size>8269</size>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test.log</name>
+<size>91628</size>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/tests</name>
+<commit
+   revision="5825">
+<author>ahchang6</author>
+<date>2017-02-27T17:43:07.152055Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5825">
+<author>ahchang6</author>
+<date>2017-02-27T17:43:07.152055Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/test.json</name>
+<size>411</size>
+<commit
+   revision="5825">
+<author>ahchang6</author>
+<date>2017-02-27T17:43:07.152055Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/test_graph.py</name>
+<size>2033</size>
+<commit
+   revision="5825">
+<author>ahchang6</author>
+<date>2017-02-27T17:43:07.152055Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/test_vertex.py</name>
+<size>873</size>
+<commit
+   revision="5825">
+<author>ahchang6</author>
+<date>2017-02-27T17:43:07.152055Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/vertex.py</name>
+<size>2215</size>
+<commit
+   revision="5825">
+<author>ahchang6</author>
+<date>2017-02-27T17:43:07.152055Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/visualize.py</name>
+<size>451</size>
+<commit
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="7163">
+<author>ahchang6</author>
+<date>2017-03-13T16:14:21.405485Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/about.html</name>
+<size>2212</size>
+<commit
+   revision="7086">
+<author>ahchang6</author>
+<date>2017-03-13T03:49:58.081540Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/assets</name>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/assets/chessResize.jpg</name>
+<size>69407</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/assets/moviesResize.jpg</name>
+<size>102410</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/assets/portfolio.png</name>
+<size>126280</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/css</name>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/1-col-portfolio.css</name>
+<size>396</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/bootstrap.css</name>
+<size>146010</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/bootstrap.min.css</name>
+<size>121200</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/stylin.css</name>
+<size>555</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/direction.html</name>
+<size>215</size>
+<commit
+   revision="7086">
+<author>ahchang6</author>
+<date>2017-03-13T03:49:58.081540Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/entry.php</name>
+<size>441</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/entry_list.php</name>
+<size>112</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/fonts</name>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/fonts/glyphicons-halflings-regular.eot</name>
+<size>20127</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/fonts/glyphicons-halflings-regular.svg</name>
+<size>108738</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/fonts/glyphicons-halflings-regular.ttf</name>
+<size>45404</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/fonts/glyphicons-halflings-regular.woff</name>
+<size>23424</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/fonts/glyphicons-halflings-regular.woff2</name>
+<size>18028</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/index.php</name>
+<size>6192</size>
+<commit
+   revision="7086">
+<author>ahchang6</author>
+<date>2017-03-13T03:49:58.081540Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/js</name>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/js/bootstrap.js</name>
+<size>69707</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/js/bootstrap.min.js</name>
+<size>37045</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/js/dragiframe.js</name>
+<size>8404</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/js/jquery.js</name>
+<size>95785</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/pages</name>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/parsed_log.php</name>
+<size>478</size>
+<commit
+   revision="7163">
+<author>ahchang6</author>
+<date>2017-03-13T16:14:21.405485Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/svn_xml</name>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_xml/svn_list.xml</name>
+<size>52274</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_xml/svn_log.xml</name>
+<size>40515</size>
+<commit
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/template.php</name>
+<size>2931</size>
+<commit
+   revision="7088">
+<author>ahchang6</author>
+<date>2017-03-13T03:54:15.726934Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templateHelper.php</name>
+<size>2953</size>
+<commit
+   revision="7163">
+<author>ahchang6</author>
+<date>2017-03-13T16:14:21.405485Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test_svn_xml</name>
+<commit
+   revision="7088">
+<author>ahchang6</author>
+<date>2017-03-13T03:54:15.726934Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test_svn_xml/svn_list.xml</name>
+<size>712</size>
+<commit
+   revision="7088">
+<author>ahchang6</author>
+<date>2017-03-13T03:54:15.726934Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test_svn_xml/svn_log.xml</name>
+<size>1239</size>
+<commit
+   revision="7088">
+<author>ahchang6</author>
+<date>2017-03-13T03:54:15.726934Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0</name>
+<commit
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/CS242HW0.iml</name>
+<size>423</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/doc</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out/production</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out/production/CS242HW0</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src/lanSimulation</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/Network.java</name>
+<size>13403</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src/lanSimulation/internals</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/internals/Node.java</name>
+<size>2406</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src/lanSimulation/tests</name>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="1957">
+<author>ahchang6</author>
+<date>2017-01-30T04:46:54.667789Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1942">
+<author>ahchang6</author>
+<date>2017-01-30T04:35:47.551401Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="1953">
+<author>ahchang6</author>
+<date>2017-01-30T04:43:03.502066Z</date>
+</commit>
+</entry>
+</list>
+</lists>

@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7163">
+<author>ahchang6</author>
+<date>2017-03-13T16:14:21.405485Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment3.0/parsed_log.php</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment3.0/templateHelper.php</path>
+</paths>
+<msg>updated comments</msg>
+</logentry>
+<logentry
+   revision="7088">
+<author>ahchang6</author>
+<date>2017-03-13T03:54:15.726934Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment3.0/template.php</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment3.0/test_svn_xml</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/test_svn_xml/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/test_svn_xml/svn_log.xml</path>
+</paths>
+<msg>tests</msg>
+</logentry>
+<logentry
+   revision="7086">
+<author>ahchang6</author>
+<date>2017-03-13T03:49:58.081540Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/about.html</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/direction.html</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment3.0/index.php</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment3.0/template.php</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment3.0/templateHelper.php</path>
+</paths>
+<msg>index.html</msg>
+</logentry>
+<logentry
+   revision="7049">
+<author>ahchang6</author>
+<date>2017-03-13T00:09:39.013905Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment3.0/class_svn.php</path>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment3.0/class_svn_entry.php</path>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment3.0/svn.php</path>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment3.0/svn_history.html</path>
+</paths>
+<msg>removed certain items</msg>
+</logentry>
+<logentry
+   revision="7048">
+<author>ahchang6</author>
+<date>2017-03-13T00:08:41.478070Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment3.0/assets</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/assets/chessResize.jpg</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/assets/moviesResize.jpg</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/assets/portfolio.png</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment3.0/css</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/css/1-col-portfolio.css</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/css/bootstrap.css</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/css/bootstrap.min.css</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/css/stylin.css</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/entry.php</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/entry_list.php</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment3.0/fonts</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/fonts/glyphicons-halflings-regular.eot</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/fonts/glyphicons-halflings-regular.svg</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/fonts/glyphicons-halflings-regular.ttf</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/fonts/glyphicons-halflings-regular.woff</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/fonts/glyphicons-halflings-regular.woff2</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment3.0/js</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/js/bootstrap.js</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/js/bootstrap.min.js</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/js/dragiframe.js</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/js/jquery.js</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment3.0/pages</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/parsed_log.php</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment3.0/svn_xml</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/svn_xml/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/svn_xml/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/templateHelper.php</path>
+</paths>
+<msg>added folders, files soon</msg>
+</logentry>
+<logentry
+   revision="6947">
+<author>ahchang6</author>
+<date>2017-03-12T01:36:08.828477Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment3.0/index.php</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/template.php</path>
+</paths>
+<msg>"updated"</msg>
+</logentry>
+<logentry
+   revision="6891">
+<author>ahchang6</author>
+<date>2017-03-11T05:06:16.446675Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/index.php</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment3.0/svn.php</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment3.0/svn_history.html</path>
+</paths>
+<msg>index.php
+</msg>
+</logentry>
+<logentry
+   revision="6890">
+<author>ahchang6</author>
+<date>2017-03-11T04:06:16.530449Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/class_svn.php</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/class_svn_entry.php</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment3.0/svn.php</path>
+</paths>
+<msg>move comp</msg>
+</logentry>
+<logentry
+   revision="6766">
+<author>ahchang6</author>
+<date>2017-03-08T22:25:25.476388Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/api.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/data/default.json</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/graph.py</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment2.0/main.py</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment2.0/scraper.py</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment2.0/test.log</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment2.0/visualize.py</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment3.0</path>
+</paths>
+<msg>Created Assignment 3.0</msg>
+</logentry>
+<logentry
+   revision="5846">
+<author>ahchang6</author>
+<date>2017-02-27T19:41:22.268405Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment2.0/test.log</path>
+</paths>
+<msg>final upload -deleted log</msg>
+</logentry>
+<logentry
+   revision="5844">
+<author>ahchang6</author>
+<date>2017-02-27T19:40:51.697273Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/data/default.json</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/graph.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/main.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/scraper.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/test.log</path>
+</paths>
+<msg>final upload</msg>
+</logentry>
+<logentry
+   revision="5825">
+<author>ahchang6</author>
+<date>2017-02-27T17:43:07.152055Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/data/default.json</path>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment2.0/data/test.json</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/graph.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/main.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/scraper.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/test.log</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment2.0/tests</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/tests/__init__.py</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment2.0/data/test.json"
+   copyfrom-rev="5824"
+   action="A">/ahchang6/Assignment2.0/tests/test.json</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/tests/test_graph.py</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment2.0/tests/test_vertex.py</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment2.0/vertex.py</path>
+</paths>
+<msg>First upload 2</msg>
+</logentry>
+<logentry
+   revision="5808">
+<author>ahchang6</author>
+<date>2017-02-27T13:49:56.885770Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment2.0/actor_spider.py</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment2.0/data</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/data/default.json</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment2.0/data/html</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/data/html/MFreeman.html</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/data/test.json</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/graph.py</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/main.py</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/scraper.py</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/test.log</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment2.0/vertex.py</path>
+</paths>
+<msg>First upload</msg>
+</logentry>
+<logentry
+   revision="5458">
+<author>ahchang6</author>
+<date>2017-02-22T06:09:27.498222Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/graph.py</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/main.py</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment2.0/vertex.py</path>
+</paths>
+<msg>created graph</msg>
+</logentry>
+<logentry
+   revision="5295">
+<author>ahchang6</author>
+<date>2017-02-20T23:15:34.894188Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment2.0</path>
+</paths>
+<msg>made Assignment2.0</msg>
+</logentry>
+<logentry
+   revision="5266">
+<author>ahchang6</author>
+<date>2017-02-20T19:19:36.084243Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Chessboard.java</path>
+</paths>
+<msg>Final version of game</msg>
+</logentry>
+<logentry
+   revision="5265">
+<author>ahchang6</author>
+<date>2017-02-20T19:12:55.815850Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Board.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Chessboard.java</path>
+</paths>
+<msg>added highlight</msg>
+</logentry>
+<logentry
+   revision="5217">
+<author>ahchang6</author>
+<date>2017-02-20T07:23:21.607222Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Cannon.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Jester.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Queen.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Rook.java</path>
+<path
+   action="D"
+   kind="dir">/ahchang6/Assignment1.2/Chess/src/assets/images</path>
+<path
+   action="R"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/assets/testPlans/ManualPlan.pdf</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Chessboard.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Move.java</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/ahchang6/Assignment1.2/Chess/src/assets/images"
+   copyfrom-rev="5216">/ahchang6/Assignment1.2/Chess/src/game/images</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/images/blackCannon.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/images/blackJester.jpg</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/images/whiteCannon.png</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1.2/Chess/src/game/images/whiteJester.jpg</path>
+</paths>
+<msg>please commit</msg>
+</logentry>
+<logentry
+   revision="5198">
+<author>ahchang6</author>
+<date>2017-02-20T03:13:50.042008Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment1.2/Chess/src/assets/images/blackCannon.png</path>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment1.2/Chess/src/assets/images/whiteCannon.png</path>
+</paths>
+<msg>removed png</msg>
+</logentry>
+<logentry
+   revision="5197">
+<author>ahchang6</author>
+<date>2017-02-20T03:00:28.691424Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Cannon.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Jester.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1.2/Chess/src/assets/images/blackCannon.png</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1.2/Chess/src/assets/images/whiteCannon.png</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/game/Board.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.2/Chess/src/game/Chessboard.java</path>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment1.2/Chess/src/game/Main.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Move.java</path>
+</paths>
+<msg>Game1.0</msg>
+</logentry>
+<logentry
+   revision="5163">
+<author>ahchang6</author>
+<date>2017-02-19T20:40:05.086174Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/game/Chessboard.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1.1/Chess/src/game/Main.java</path>
+<path
+   kind="dir"
+   copyfrom-path="/ahchang6/Assignment1.1"
+   copyfrom-rev="4214"
+   action="A">/ahchang6/Assignment1.2</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/Pieces/Jester.java"
+   copyfrom-rev="4306"
+   action="R">/ahchang6/Assignment1.2/Chess/src/Pieces/Jester.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/Pieces/King.java"
+   copyfrom-rev="4306"
+   action="R"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/King.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/Pieces/Piece.java"
+   copyfrom-rev="4306"
+   action="R"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Piece.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/Pieces/Queen.java"
+   copyfrom-rev="4306"
+   action="R"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/Pieces/Queen.java</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/game/Board.java"
+   copyfrom-rev="4306">/ahchang6/Assignment1.2/Chess/src/game/Board.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Chessboard.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/game/Main.java</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/game/Move.java"
+   copyfrom-rev="4356">/ahchang6/Assignment1.2/Chess/src/game/Move.java</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/tests/BishopTest.java"
+   copyfrom-rev="4306">/ahchang6/Assignment1.2/Chess/src/tests/BishopTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/tests/BoardTest.java"
+   copyfrom-rev="4306"
+   action="R">/ahchang6/Assignment1.2/Chess/src/tests/BoardTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/tests/CannonTest.java"
+   copyfrom-rev="4306"
+   action="R">/ahchang6/Assignment1.2/Chess/src/tests/CannonTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/tests/JesterTest.java"
+   copyfrom-rev="4306"
+   action="A">/ahchang6/Assignment1.2/Chess/src/tests/JesterTest.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/tests/KingTest.java"
+   copyfrom-rev="4306"
+   action="R"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/tests/KingTest.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/tests/PawnTest.java"
+   copyfrom-rev="4356"
+   action="R"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/tests/PawnTest.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1.1/Chess/src/tests/QueenTest.java"
+   copyfrom-rev="4306"
+   action="R"
+   kind="file">/ahchang6/Assignment1.2/Chess/src/tests/QueenTest.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1.1/Doxyfile"
+   copyfrom-rev="4306">/ahchang6/Assignment1.2/Doxyfile</path>
+</paths>
+<msg>added Assignment1.2</msg>
+</logentry>
+<logentry
+   revision="4356">
+<author>ahchang6</author>
+<date>2017-02-13T19:06:25.702306Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/game/Move.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/tests/PawnTest.java</path>
+</paths>
+<msg>fixed lines and tests</msg>
+</logentry>
+<logentry
+   revision="4306">
+<author>ahchang6</author>
+<date>2017-02-13T16:33:46.816037Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1.1/Chess/src/Pieces/Jester.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/game/Board.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/game/Move.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/tests/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/tests/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/tests/CannonTest.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1.1/Chess/src/tests/JesterTest.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/tests/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1.1/Chess/src/tests/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>updated tests</msg>
+</logentry>
+<logentry
+   revision="4214">
+<author>ahchang6</author>
+<date>2017-02-13T03:29:25.055739Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/game/Chessboard.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/game/Player.java</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/ahchang6/Assignment1"
+   copyfrom-rev="3242">/ahchang6/Assignment1.1</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/ahchang6/Assignment1/Chess"
+   copyfrom-rev="3379">/ahchang6/Assignment1.1/Chess</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Bishop.java"
+   copyfrom-rev="4212">/ahchang6/Assignment1.1/Chess/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Cannon.java"
+   copyfrom-rev="4212"
+   action="A">/ahchang6/Assignment1.1/Chess/src/Pieces/Cannon.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Jester.java"
+   copyfrom-rev="4212"
+   action="A">/ahchang6/Assignment1.1/Chess/src/Pieces/Jester.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/King.java"
+   copyfrom-rev="4212"
+   action="R">/ahchang6/Assignment1.1/Chess/src/Pieces/King.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Knight.java"
+   copyfrom-rev="4212"
+   action="R">/ahchang6/Assignment1.1/Chess/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Pawn.java"
+   copyfrom-rev="4212"
+   action="R">/ahchang6/Assignment1.1/Chess/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Piece.java"
+   copyfrom-rev="4212"
+   action="R">/ahchang6/Assignment1.1/Chess/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Queen.java"
+   copyfrom-rev="4212"
+   action="R">/ahchang6/Assignment1.1/Chess/src/Pieces/Queen.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/Pieces/Rook.java"
+   copyfrom-rev="4212"
+   action="R"
+   kind="file">/ahchang6/Assignment1.1/Chess/src/Pieces/Rook.java</path>
+<path
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/assets"
+   copyfrom-rev="4212"
+   action="A"
+   kind="dir">/ahchang6/Assignment1.1/Chess/src/assets</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/game/Board.java"
+   copyfrom-rev="4212">/ahchang6/Assignment1.1/Chess/src/game/Board.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/game/Chessboard.java"
+   copyfrom-rev="4212">/ahchang6/Assignment1.1/Chess/src/game/Chessboard.java</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/game/Move.java"
+   copyfrom-rev="4212">/ahchang6/Assignment1.1/Chess/src/game/Move.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/game/Player.java"
+   copyfrom-rev="3431">/ahchang6/Assignment1.1/Chess/src/game/Player.java</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/BishopTest.java"
+   copyfrom-rev="3413">/ahchang6/Assignment1.1/Chess/src/tests/BishopTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/BoardTest.java"
+   copyfrom-rev="3431"
+   action="A">/ahchang6/Assignment1.1/Chess/src/tests/BoardTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/CannonTest.java"
+   copyfrom-rev="4212"
+   action="A">/ahchang6/Assignment1.1/Chess/src/tests/CannonTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/KingTest.java"
+   copyfrom-rev="3431"
+   action="R">/ahchang6/Assignment1.1/Chess/src/tests/KingTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/KnightTest.java"
+   copyfrom-rev="3431"
+   action="R">/ahchang6/Assignment1.1/Chess/src/tests/KnightTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/PawnTest.java"
+   copyfrom-rev="4212"
+   action="R">/ahchang6/Assignment1.1/Chess/src/tests/PawnTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/PieceTest.java"
+   copyfrom-rev="3413"
+   action="A">/ahchang6/Assignment1.1/Chess/src/tests/PieceTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/PlayerTest.java"
+   copyfrom-rev="3431"
+   action="A">/ahchang6/Assignment1.1/Chess/src/tests/PlayerTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/QueenTest.java"
+   copyfrom-rev="3431"
+   action="R">/ahchang6/Assignment1.1/Chess/src/tests/QueenTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/ahchang6/Assignment1/Chess/src/tests/RookTest.java"
+   copyfrom-rev="3413"
+   action="R">/ahchang6/Assignment1.1/Chess/src/tests/RookTest.java</path>
+<path
+   kind="dir"
+   action="D">/ahchang6/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="D">/ahchang6/hw0/bin</path>
+</paths>
+<msg>made separate branch</msg>
+</logentry>
+<logentry
+   revision="4212">
+<author>ahchang6</author>
+<date>2017-02-13T03:21:37.258167Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/Pieces/Cannon.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/Pieces/Jester.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/Piece.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Queen.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment1/Chess/src/assets</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment1/Chess/src/assets/images</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/blackBishop.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/blackKing.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/blackKnight.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/blackPawn.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/blackQueen.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/blackRook.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/whiteBishop.png</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/assets/images/whiteKing.png</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/assets/images/whiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/assets/images/whitePawn.png</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/assets/images/whiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/assets/images/whiteRook.png</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment1/Chess/src/assets/testPlans</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/assets/testPlans/ManualPlan.pdf</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/game/Board.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/game/Chessboard.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/game/Move.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/tests/CannonTest.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/tests/PawnTest.java</path>
+</paths>
+<msg>added pieces and gui</msg>
+</logentry>
+<logentry
+   revision="3431">
+<author>ahchang6</author>
+<date>2017-02-06T19:30:08.278704Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/King.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Piece.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Queen.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/game/Board.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/game/Move.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/game/Player.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/BoardTest.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/KingTest.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/PlayerTest.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/QueenTest.java</path>
+</paths>
+<msg>Added more tests and refined
+</msg>
+</logentry>
+<logentry
+   revision="3413">
+<author>ahchang6</author>
+<date>2017-02-06T18:33:40.693964Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/game/Board.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/game/Move.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/tests/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/BoardTest.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/PieceTest.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/QueenTest.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/RookTest.java</path>
+</paths>
+<msg>Added more tests</msg>
+</logentry>
+<logentry
+   revision="3379">
+<author>ahchang6</author>
+<date>2017-02-06T14:45:46.200440Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment1/Chess</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/javadoc.xml</path>
+<path
+   kind="dir"
+   copyfrom-path="/ahchang6/Assignment1/src"
+   copyfrom-rev="3378"
+   action="A">/ahchang6/Assignment1/Chess/src</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/King.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Knight.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/ahchang6/Assignment1/Chess/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/game/Board.java</path>
+<path
+   kind="file"
+   action="M">/ahchang6/Assignment1/Chess/src/game/Move.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/tests/BishopTest.java</path>
+<path
+   kind="file"
+   action="D">/ahchang6/Assignment1/Chess/src/tests/ChessSquareTest.java</path>
+<path
+   action="D"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/ChessTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/Chess/src/tests/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/Chess/src/tests/RookTest.java</path>
+<path
+   kind="dir"
+   action="D">/ahchang6/Assignment1/src</path>
+</paths>
+<msg>only tests left</msg>
+</logentry>
+<logentry
+   revision="3242">
+<author>ahchang6</author>
+<date>2017-02-05T03:43:29.357276Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment1</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment1/src</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment1/src/Pieces</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/src/Pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/src/Pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment1/src/Pieces/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment1/src/game</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/src/game/Board.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/src/game/Move.java</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment1/src/tests</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/src/tests/ChessSquareTest.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment1/src/tests/ChessTest.java</path>
+</paths>
+<msg>added pieces and games</msg>
+</logentry>
+<logentry
+   revision="2056">
+<author>ahchang6</author>
+<date>2017-01-30T15:44:41.852940Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/alloc.c</path>
+</paths>
+<msg>added code</msg>
+</logentry>
+<logentry
+   revision="1991">
+<author>ahchang6</author>
+<date>2017-01-30T06:17:07.130239Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0/HW0</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/.classpath</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/HW0.iml</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/HW0/bin</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/HW0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0/HW0/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0/HW0/doc</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/doc/README</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/doc/toDoList</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/HW0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/HW0/useOutput.txt</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/__MACOSX</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/._HW0</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._.DS_Store</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._.classpath</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._.project</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._.settings</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._COPYING</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._bin</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._doc</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._javadoc.xml</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/._src</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0/__MACOSX/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/.settings/._org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/doc/._LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/doc/._README</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/doc/._RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/doc/._toDoList</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/src</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/src/._lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/._LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/._Network.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/._internals</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/._tests</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/internals/._Node.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/internals/._Packet.java</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/ahchang6/Assignment0/__MACOSX/HW0/src/lanSimulation/tests/._LANTests.java</path>
+</paths>
+<msg>finished refactor</msg>
+</logentry>
+<logentry
+   revision="1969">
+<author>ahchang6</author>
+<date>2017-01-30T05:13:40.264290Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/ahchang6/hw0/COPYING</path>
+<path
+   kind="file"
+   action="A">/ahchang6/hw0/CS242HW0.iml</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/hw0/doc</path>
+<path
+   action="A"
+   kind="file">/ahchang6/hw0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/ahchang6/hw0/doc/README</path>
+<path
+   action="A"
+   kind="file">/ahchang6/hw0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/ahchang6/hw0/doc/toDoList</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/hw0/out</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/hw0/out/production</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/hw0/out/production/CS242HW0</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/hw0/src</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/hw0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/ahchang6/hw0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/ahchang6/hw0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/hw0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/ahchang6/hw0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/hw0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/hw0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/ahchang6/hw0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/ahchang6/hw0/useOutput.txt</path>
+</paths>
+<msg>fnished adding hw0</msg>
+</logentry>
+<logentry
+   revision="1968">
+<author>ahchang6</author>
+<date>2017-01-30T05:12:45.579511Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/ahchang6/bin</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/hw0</path>
+<path
+   copyfrom-path="/ahchang6/bin"
+   copyfrom-rev="1967"
+   action="A"
+   kind="dir">/ahchang6/hw0/bin</path>
+</paths>
+<msg>added hw0
+</msg>
+</logentry>
+<logentry
+   revision="1965">
+<author>ahchang6</author>
+<date>2017-01-30T05:10:31.556525Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/ahchang6/bin</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/ahchang6/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/ahchang6/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/ahchang6/bin/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/ahchang6/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/ahchang6/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/ahchang6/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/ahchang6/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/ahchang6/bin/lanSimulation/tests/LANTests.class</path>
+</paths>
+<msg>added
+</msg>
+</logentry>
+<logentry
+   revision="1957">
+<author>ahchang6</author>
+<date>2017-01-30T04:46:54.667789Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/ahchang6/grocery</path>
+<path
+   copyfrom-path="/ahchang6/grocery"
+   copyfrom-rev="1956"
+   action="A"
+   kind="dir">/ahchang6/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="1955">
+<author>ahchang6</author>
+<date>2017-01-30T04:44:25.140225Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/ahchang6/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="1954">
+<author>ahchang6</author>
+<date>2017-01-30T04:43:55.969520Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/ahchang6/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="1953">
+<author>ahchang6</author>
+<date>2017-01-30T04:43:03.502066Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="1952">
+<author>ahchang6</author>
+<date>2017-01-30T04:41:55.710098Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="1945">
+<author>ahchang6</author>
+<date>2017-01-30T04:39:41.280598Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/ahchang6/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="1943">
+<author>ahchang6</author>
+<date>2017-01-30T04:37:08.124371Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="1942">
+<author>ahchang6</author>
+<date>2017-01-30T04:35:47.551401Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/ahchang6/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="1941">
+<author>ahchang6</author>
+<date>2017-01-30T04:33:48.117934Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/ahchang6/grocery</path>
+<path
+   action="A"
+   kind="file">/ahchang6/grocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/ahchang6/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="10">
+<author>root</author>
+<date>2017-01-24T19:28:01.652189Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/ahchang6</path>
+</paths>
+<msg>created directory ahchang6</msg>
+</logentry>
+</log>

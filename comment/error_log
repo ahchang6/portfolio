@@ -1,0 +1,37 @@
+[28-Mar-2017 03:03:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:03:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:03:01 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:03:01 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:03:01 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:03:01 UTC] PHP Warning:  include(): Failed opening 'bootstrapcomment.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:03:01 UTC] PHP Fatal error:  Class 'comment2' not found in /home/ahchang6/public_html/comment/like-dislike.php on line 16
+[28-Mar-2017 03:03:02 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:03:02 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:03:02 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:03:02 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:03:02 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:03:02 UTC] PHP Warning:  include(): Failed opening 'bootstrapcomment.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:03:02 UTC] PHP Fatal error:  Class 'comment2' not found in /home/ahchang6/public_html/comment/like-dislike.php on line 16
+[28-Mar-2017 03:04:28 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:28 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:28 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:28 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:28 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:28 UTC] PHP Warning:  include(): Failed opening 'bootstrapcomment.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:28 UTC] PHP Fatal error:  Class 'comment2' not found in /home/ahchang6/public_html/comment/like-dislike.php on line 16
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(): Failed opening 'bootstrapcomment.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:31 UTC] PHP Fatal error:  Class 'comment2' not found in /home/ahchang6/public_html/comment/like-dislike.php on line 16
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 9
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(bootstrapcomment.php): failed to open stream: No such file or directory in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:31 UTC] PHP Warning:  include(): Failed opening 'bootstrapcomment.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ahchang6/public_html/comment/like-dislike.php on line 10
+[28-Mar-2017 03:04:31 UTC] PHP Fatal error:  Class 'comment2' not found in /home/ahchang6/public_html/comment/like-dislike.php on line 16
+[27-Mar-2017 22:05:20 US/Central] PHP Fatal error:  Class 'comment2' not found in /home/ahchang6/public_html/comment/like-dislike.php on line 16
+[27-Mar-2017 22:05:22 US/Central] PHP Fatal error:  Class 'comment2' not found in /home/ahchang6/public_html/comment/like-dislike.php on line 16
